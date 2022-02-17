@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=divice-width, initial-scale=1.0">
+	<title>Tarea2</title>>
+	<style>
+		.header{
+			background-color: 	#00BFFF;
+		}
+	</style>>
+</head>
+<body>
+	<div class = "header">
+		<h1> Practica 2 - Elementos HTML e hipervinculos</h1>
+	</div>
